@@ -89,6 +89,21 @@ Open: [http://localhost:8000/api/expenses/](http://localhost:8000/api/expenses/)
 
 ---
 
+## 📚 API Documentation / Documentação da API
+
+The interactive API documentation is available at the following routes:
+
+A documentação interativa da API está disponível nos seguintes endereços:
+
+- [Swagger UI](http://localhost:8000/swagger/)
+- [ReDoc](http://localhost:8000/redoc/)
+
+These docs are auto-generated from the codebase using `drf-yasg`.
+
+Essas documentações são geradas automaticamente a partir do código usando `drf-yasg`.
+
+---
+
 ## 📁 Estrutura do projeto | Project structure
 
 ```
